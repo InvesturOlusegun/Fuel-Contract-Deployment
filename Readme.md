@@ -1,9 +1,9 @@
-
+#Step to learn fuel network contract deployment on testnet
 
 --------------------------------
 
 
-# Deploying a Contract on Fuel Network 
+## Deploying a Contract on Fuel Network 
 ![image](https://github.com/mztacat/Fuel-Contract-Deployment/assets/31314340/79098f5b-4d5c-48a5-9eda-8b39b1cccde6)
 
 
